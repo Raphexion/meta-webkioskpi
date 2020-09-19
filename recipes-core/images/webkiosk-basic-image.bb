@@ -6,4 +6,12 @@ IMAGE_INSTALL += " \
 	kernel-modules \
 	qtbase \
 	qtwebengine \
+	iw \
+	module-init-tools \
+	bluez5 \
+	i2c-tools \
+	linux-firmware-rpidistro-bcm43430 \
+	linux-firmware-rpidistro-bcm43455 \
+	bluez-firmware-rpidistro-bcm43430a1-hcd \
+	bluez-firmware-rpidistro-bcm4345c0-hcd \
 	"
